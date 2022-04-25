@@ -4,7 +4,7 @@
       Header
     </header>
     <main>
-      <slot></slot>
+      <slot>Fallback main content</slot>
     </main>
     <footer class="has-background-link has-text-light">
       Footer
