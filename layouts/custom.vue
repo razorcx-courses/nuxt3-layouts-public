@@ -1,5 +1,6 @@
 <template>
   <div class="has-background-dark has-text-light">
+    <TheNav />
     <header class="has-background-light has-text-dark">
       Header
     </header>

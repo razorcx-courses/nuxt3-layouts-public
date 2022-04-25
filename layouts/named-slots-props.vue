@@ -1,6 +1,7 @@
 <template>
   <div class="has-background-warning has-text-dark">
-    <!-- Names Slot Props -->
+    <TheNav />
+    <!-- Named Slot Props -->
     <header class="has-background-light has-text-dark">
       <slot name="header" :text="headerMessage"> Fallback header content </slot>
     </header>
